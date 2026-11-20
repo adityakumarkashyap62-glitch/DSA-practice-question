@@ -17,6 +17,7 @@ Data Structure and Alorithms Practices Questiond
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/adityakumarkashyap62-glitch/DSA-practice-question/tree/master/0496-next-greater-element-i) |
+| [1021-remove-outermost-parentheses](https://github.com/adityakumarkashyap62-glitch/DSA-practice-question/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/adityakumarkashyap62-glitch/DSA-practice-question/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
@@ -25,5 +26,10 @@ Data Structure and Alorithms Practices Questiond
 ## String
 |  |
 | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/adityakumarkashyap62-glitch/DSA-practice-question/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/adityakumarkashyap62-glitch/DSA-practice-question/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/adityakumarkashyap62-glitch/DSA-practice-question/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
