@@ -13,6 +13,7 @@ Data Structure and Alorithms Practices Questiond
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adityakumarkashyap62-glitch/DSA-practice-question/tree/master/0001-two-sum) |
+| [0387-first-unique-character-in-a-string](https://github.com/adityakumarkashyap62-glitch/DSA-practice-question/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/adityakumarkashyap62-glitch/DSA-practice-question/tree/master/0496-next-greater-element-i) |
 ## Stack
 |  |
@@ -27,6 +28,7 @@ Data Structure and Alorithms Practices Questiond
 ## String
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/adityakumarkashyap62-glitch/DSA-practice-question/tree/master/0387-first-unique-character-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/adityakumarkashyap62-glitch/DSA-practice-question/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/adityakumarkashyap62-glitch/DSA-practice-question/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bracket Sequences
@@ -36,9 +38,14 @@ Data Structure and Alorithms Practices Questiond
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/adityakumarkashyap62-glitch/DSA-practice-question/tree/master/0387-first-unique-character-in-a-string) |
 | [2073-time-needed-to-buy-tickets](https://github.com/adityakumarkashyap62-glitch/DSA-practice-question/tree/master/2073-time-needed-to-buy-tickets) |
 ## Simulation
 |  |
 | ------- |
 | [2073-time-needed-to-buy-tickets](https://github.com/adityakumarkashyap62-glitch/DSA-practice-question/tree/master/2073-time-needed-to-buy-tickets) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/adityakumarkashyap62-glitch/DSA-practice-question/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
