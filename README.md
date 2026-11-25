@@ -8,6 +8,7 @@ Data Structure and Alorithms Practices Questiond
 | ------- |
 | [0001-two-sum](https://github.com/adityakumarkashyap62-glitch/DSA-practice-question/tree/master/0001-two-sum) |
 | [0496-next-greater-element-i](https://github.com/adityakumarkashyap62-glitch/DSA-practice-question/tree/master/0496-next-greater-element-i) |
+| [2073-time-needed-to-buy-tickets](https://github.com/adityakumarkashyap62-glitch/DSA-practice-question/tree/master/2073-time-needed-to-buy-tickets) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,4 +33,12 @@ Data Structure and Alorithms Practices Questiond
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/adityakumarkashyap62-glitch/DSA-practice-question/tree/master/1021-remove-outermost-parentheses) |
+## Queue
+|  |
+| ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/adityakumarkashyap62-glitch/DSA-practice-question/tree/master/2073-time-needed-to-buy-tickets) |
+## Simulation
+|  |
+| ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/adityakumarkashyap62-glitch/DSA-practice-question/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
