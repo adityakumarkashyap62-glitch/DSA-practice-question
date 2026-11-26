@@ -18,6 +18,7 @@ Data Structure and Alorithms Practices Questiond
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/adityakumarkashyap62-glitch/DSA-practice-question/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/adityakumarkashyap62-glitch/DSA-practice-question/tree/master/0496-next-greater-element-i) |
 | [1021-remove-outermost-parentheses](https://github.com/adityakumarkashyap62-glitch/DSA-practice-question/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/adityakumarkashyap62-glitch/DSA-practice-question/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -28,12 +29,14 @@ Data Structure and Alorithms Practices Questiond
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/adityakumarkashyap62-glitch/DSA-practice-question/tree/master/0020-valid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/adityakumarkashyap62-glitch/DSA-practice-question/tree/master/0387-first-unique-character-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/adityakumarkashyap62-glitch/DSA-practice-question/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/adityakumarkashyap62-glitch/DSA-practice-question/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/adityakumarkashyap62-glitch/DSA-practice-question/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/adityakumarkashyap62-glitch/DSA-practice-question/tree/master/1021-remove-outermost-parentheses) |
 ## Queue
 |  |
