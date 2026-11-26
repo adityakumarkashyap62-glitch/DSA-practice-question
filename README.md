@@ -8,6 +8,7 @@ Data Structure and Alorithms Practices Questiond
 | ------- |
 | [0001-two-sum](https://github.com/adityakumarkashyap62-glitch/DSA-practice-question/tree/master/0001-two-sum) |
 | [0496-next-greater-element-i](https://github.com/adityakumarkashyap62-glitch/DSA-practice-question/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/adityakumarkashyap62-glitch/DSA-practice-question/tree/master/0682-baseball-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/adityakumarkashyap62-glitch/DSA-practice-question/tree/master/2073-time-needed-to-buy-tickets) |
 ## Hash Table
 |  |
@@ -20,6 +21,7 @@ Data Structure and Alorithms Practices Questiond
 | ------- |
 | [0020-valid-parentheses](https://github.com/adityakumarkashyap62-glitch/DSA-practice-question/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/adityakumarkashyap62-glitch/DSA-practice-question/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/adityakumarkashyap62-glitch/DSA-practice-question/tree/master/0682-baseball-game) |
 | [1021-remove-outermost-parentheses](https://github.com/adityakumarkashyap62-glitch/DSA-practice-question/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/adityakumarkashyap62-glitch/DSA-practice-question/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
@@ -46,6 +48,7 @@ Data Structure and Alorithms Practices Questiond
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/adityakumarkashyap62-glitch/DSA-practice-question/tree/master/0682-baseball-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/adityakumarkashyap62-glitch/DSA-practice-question/tree/master/2073-time-needed-to-buy-tickets) |
 ## Counting
 |  |
