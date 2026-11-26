@@ -24,6 +24,7 @@ Data Structure and Alorithms Practices Questiond
 | [0682-baseball-game](https://github.com/adityakumarkashyap62-glitch/DSA-practice-question/tree/master/0682-baseball-game) |
 | [1021-remove-outermost-parentheses](https://github.com/adityakumarkashyap62-glitch/DSA-practice-question/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/adityakumarkashyap62-glitch/DSA-practice-question/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adityakumarkashyap62-glitch/DSA-practice-question/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -35,11 +36,13 @@ Data Structure and Alorithms Practices Questiond
 | [0387-first-unique-character-in-a-string](https://github.com/adityakumarkashyap62-glitch/DSA-practice-question/tree/master/0387-first-unique-character-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/adityakumarkashyap62-glitch/DSA-practice-question/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/adityakumarkashyap62-glitch/DSA-practice-question/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adityakumarkashyap62-glitch/DSA-practice-question/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/adityakumarkashyap62-glitch/DSA-practice-question/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/adityakumarkashyap62-glitch/DSA-practice-question/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adityakumarkashyap62-glitch/DSA-practice-question/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Queue
 |  |
 | ------- |
